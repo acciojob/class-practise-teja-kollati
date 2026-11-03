@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.paragraph{
+	color:#00f;
+	background-color: #eee;
+	font-size: 20px;
+	font-family: Arial;
+}
